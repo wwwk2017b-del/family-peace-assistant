@@ -52,3 +52,34 @@ python main.py
 - pandas, numpy
 - matplotlib, seaborn
 - scikit-learn (TF-IDF + Logistic Regression)
+
+# Family Peace Assistant
+
+🔗 Live Demo: https://family-peace-app.streamlit.app/
+
+## Overview
+
+Family Peace Assistant is a Machine Learning-powered web application designed to help users improve family communication, manage stress, and reduce conflicts through personalized insights and recommendations.
+
+## Features
+
+* Mood and stress tracking
+* Family conflict analysis
+* Personalized peace-building suggestions
+* Simple and user-friendly interface
+* Real-time predictions using Machine Learning
+* Accessible through any web browser
+
+
+## Live Application
+
+https://family-peace-app.streamlit.app/
+
+## Future Improvements
+
+* Emotion detection from text
+* Family wellness dashboard
+* Conflict trend visualization
+* AI-powered conversation suggestions
+
+
